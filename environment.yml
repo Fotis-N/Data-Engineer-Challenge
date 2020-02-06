@@ -1,0 +1,10 @@
+name: XE_DataEngineerChallenge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - mysql-connector-python
+  - kafka-python
+prefix: C:\Users\Fotis\Anaconda3\envs\XE_DataEngineerChallenge
+
