@@ -1,6 +1,6 @@
 # XE Data Engineer Challenge
 
-This project is my solution to the Data Engineer - XE Code Challenge
+This is my solution to the Data Engineer - XE Code Challenge
 
 ### Notes
 
